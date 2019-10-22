@@ -1,0 +1,20 @@
+{
+  "name": "Countdown",
+  "year": 2019,
+  "runtime": 90,
+  "categories": [
+    "horror",
+    "thriller"
+  ],
+  "release-date": "2019-10-25",
+  "director": "Justin Dec",
+  "writer": [
+    "Justin Dec"
+  ],
+  "actors": [
+    "Elizabeth Lail",
+    "Jordan Calloway", 
+    "Talitha Eliana Bateman"
+  ],
+  "storyline": "When a nurse downloads an app that claims to predict the moment a person will die, it tells her she only has three days to live. With the clock ticking and a figure haunting her, she must find a way to save her life before time runs out."
+}
